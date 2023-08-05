@@ -1,0 +1,112 @@
+.aboutme-title{
+     display: flex;
+     justify-content: space-between;
+}
+
+.textarea-container{
+    width: 100%;
+    color: #AFA7A7;
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid lightgray;
+    overflow:hidden;
+    padding: 10px 0;
+    /* height: 60px; */
+    /* background-color: #F3F4F9; */
+
+}
+
+.resume-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.fwd-arr{
+    margin-top:5px;
+}
+
+.resume-icon{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.resume-font{
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.textarea{
+    color: black;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid lightgray;
+    overflow:hidden;
+    background-color: #F3F4F9;
+}
+
+.blood-group-dropdown{
+    border: none;
+    width: 100%; 
+     background-color:#F3F4F9;
+     padding: 10px 0;
+     border-radius: 5px;
+
+}
+
+
+
+.save-btn-div{
+    position: absolute;
+    bottom: 50px;
+    width: 100%;
+}
+
+.card-bg{
+    background-color: #f3f4f9;
+    border: none;
+    padding: 10px 0;
+}
+
+.p{
+    font-size: 14px;
+    color: #AFA7A7;
+  }
+
+  .delete-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+  }
+
+.save-btn{
+    width: 100%;
+    background-color:#fdebeb;
+    border: none;
+    color: white;
+    border-radius: 30px;
+    padding:8px 0;
+    font-size: 16px;
+}
+
+.count-div{
+    display: flex;
+    justify-content: end;
+}
+
+.about-me{
+    color:grey;
+}
+
+.Bio-screen-div{
+    padding: 12px;
+    height: 100%;
+    width: 100%;
+}
+
+/* .resume-div{
+    border: 1px solid lightgray;
+    padding: 5px 0 5px 0;
+    box-shadow: 2px;
+} */
